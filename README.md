@@ -209,6 +209,10 @@ uv sync && uv run narratarr
 
 <br>
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Narratarr/)
+
 ## 🎧 Your first five minutes
 
 1. Open **http://localhost:8484**. You land on **Discover**, showing LibriVox's most popular books.
